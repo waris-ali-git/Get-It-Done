@@ -1,16 +1,57 @@
-# f1
+# Get It Done — A Simple and Powerful ToDo App
 
-A new Flutter project.
+![Built with Flutter](https://img.shields.io/badge/Built%20With-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Android%20%7C%20iOS-green?style=for-the-badge&logo=google&logoColor=white)
+![Stay Organized](https://img.shields.io/badge/Stay-Organized-blue?style=for-the-badge)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Overview
+**Get It Done** is a lightweight and efficient ToDo application designed to help you stay organized and productive.  
+Built entirely with Flutter, it offers a clean UI and a seamless experience across platforms.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##  Watch It In Action
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-ff69b4?style=for-the-badge)](https://github.com/waris-ali-git/Get-It-Done)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_(Click the badge to watch the full walkthrough!)_
+
+---
+
+## Features
+- Task Creation and Management
+- Mark Tasks as Completed
+- Edit and Delete Tasks
+- Clean, Minimalist Interface
+- Smooth Cross-Platform Performance
+
+---
+
+## Tech Stack
+| Technology | Purpose |
+|------------|---------|
+| Flutter | Cross-Platform App Development |
+| Dart | Core Programming Language |
+| Local Storage | Save tasks directly on the device |
+| Provider (or State Management) | Efficient state handling |
+
+---
+
+## Why "Get It Done"?
+- No unnecessary clutter — only the essentials.
+- Fast, responsive, and reliable task management.
+- A minimalistic approach to productivity.
+
+---
+
+## Roadmap
+- Notification Reminders
+- Dark Mode Support
+- Task Categorization and Filtering
+- Cloud Sync (Future Update)
+
+---
+
+## How to Run
+1. Clone the repository:
