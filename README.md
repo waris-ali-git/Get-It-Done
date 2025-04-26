@@ -12,13 +12,6 @@ Built entirely with Flutter, it offers a clean UI and a seamless experience acro
 
 ---
 
-##  Watch It In Action
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-ff69b4?style=for-the-badge)](https://github.com/waris-ali-git/Get-It-Done)
-
-_(Click the badge to watch the full walkthrough!)_
-
----
-
 ## Features
 - Task Creation and Management
 - Mark Tasks as Completed
@@ -50,8 +43,3 @@ _(Click the badge to watch the full walkthrough!)_
 - Dark Mode Support
 - Task Categorization and Filtering
 - Cloud Sync (Future Update)
-
----
-
-## How to Run
-1. Clone the repository:
